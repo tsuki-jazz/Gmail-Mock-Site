@@ -1,0 +1,122 @@
+.logo{
+    position:relative;
+}
+
+.logo img{
+    position:absolute;
+    left: 30px;
+}
+
+.gmail{
+    font-size: 25px;
+    font-family: "Google Sans","Roboto",Arial,sans-serif;
+    color:#4285f4;
+    position:absolute;
+    left: 80px;
+    top: 11px;
+    color: #5f6368
+}
+
+.work{
+    font-size: 16px;
+    font-family: "Google Sans","Roboto",Arial,sans-serif;
+    padding: 3px;
+    border-width: 1px;
+    border-color: white;
+    color:#4285f4;
+    background-color: white;
+    position:absolute;
+    left: 1150px;
+    top: 11px;
+    width: 90px;
+    
+}
+
+.sign-in{
+
+    font-size: 16px;
+    font-family: "Google Sans","Roboto",Arial,sans-serif;
+    padding: 3px;
+    border-width: 1px;
+    border-color: #e6e4e4;
+    color:#4285f4;
+    background-color: white;
+    position:absolute;
+    left: 1258px;
+    top:11px;
+}
+
+.register{
+    font-size: 16px;
+    font-family: "Google Sans","Roboto",Arial,sans-serif;
+    border-width: 1px;
+    padding: 3px;
+    border-color: #4285f4;
+    color:white;
+    background-color: #4285f4;
+    position:absolute;
+    left: 1330px;
+    top:11px;
+}
+
+.header-line{
+    position:relative;
+    top:45px;
+}
+
+.main{
+    font-size:60px;
+    font-family: "Google Sans","Roboto",Arial,sans-serif;
+    position:absolute;
+    left: 80px;
+    top:255px;
+    color:#202124;
+
+}
+
+.sub{
+    font-family: "Google Sans","Roboto",Arial,sans-serif;
+    font-size: 20px;
+    position:absolute;
+    left: 80px;
+    top:465px;
+    color: #5f6368;
+}
+
+.register2{
+    font-size: 16px;
+    font-family: "Google Sans","Roboto",Arial,sans-serif;
+    border-width: 1px;
+    padding: 3px;
+    border-color: #4285f4;
+    color:white;
+    background-color: #4285f4;
+    position:absolute;
+    left: 80px;
+    top:570px;
+}
+
+.work2{
+
+    font-size: 16px;
+    font-family: "Google Sans","Roboto",Arial,sans-serif;
+    padding: 3px;
+    border-width: 1px;
+    border-color: white;
+    color:#4285f4;
+    background-color: white;
+    position:absolute;
+    left: 230px;
+    top: 570px;
+    width: 80.8px;
+}
+
+.background-image{
+    position:relative;
+}
+
+.background-image img {
+    position: absolute;
+    left: 750px;
+    top: 80px;
+}
